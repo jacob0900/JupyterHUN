@@ -1,0 +1,10 @@
+# Dependencias del Módulo 5, además de requirements.txt (versiones probadas entre paréntesis)
+numpy>=1.26          # 1.26.4
+pandas>=2.0          # 2.2.2
+pyarrow>=14          # 16.1.0
+scipy>=1.10          # 1.13.1
+scikit-learn>=1.3    # 1.5.2
+duckdb>=1.0          # 2.0.0
+joblib>=1.3          # 1.5.3
+pytest>=7            # 7.4.4
+psycopg2-binary>=2.9 # solo para m5_0_extraccion (necesita VPN)

@@ -1,0 +1,8 @@
+# Dependencias adicionales de Persona 3 (M2, M3, M4 visual), además de requirements.txt
+lifelines>=0.27
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.10
+statsmodels>=0.14
+plotly>=5.18
+tabulate>=0.9

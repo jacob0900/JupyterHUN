@@ -1,0 +1,8 @@
+# Credenciales y datos de pacientes: nunca a git (CLAUDE.md, regla 7)
+.env
+data/
+*.parquet
+*.npz
+*.joblib
+__pycache__/
+.pytest_cache/
